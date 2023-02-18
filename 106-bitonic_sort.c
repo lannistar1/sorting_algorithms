@@ -1,6 +1,6 @@
 /*
  * File: 106-bitonic_sort.c
- * Auth: Brennan D Baraban
+ * Auth: olorunfemi_Abdulwasiu
  */
 
 #include "sort.h"
