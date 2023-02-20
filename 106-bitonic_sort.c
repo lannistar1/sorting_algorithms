@@ -1,6 +1,10 @@
 /*
  * File: 106-bitonic_sort.c
+<<<<<<< HEAD
  * Auth: Siyanbola Wasiu I., Olorunfemi Ogunbanwo
+=======
+ * Auth: olorunfemi_Abdulwasiu
+>>>>>>> 21c16462f423c04fec7a61c4c10584b43eb349a7
  */
 
 #include "sort.h"
